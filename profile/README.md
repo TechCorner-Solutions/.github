@@ -1,59 +1,59 @@
 # TechCorner Solutions 🚀
 
-Bine ați venit la **TechCorner Solutions** - o organizație dedicată dezvoltării de soluții software inovatoare și eficiente.
+Welcome to **TechCorner Solutions** – an organization dedicated to building innovative and efficient software solutions.
 
-## 🏢 Despre Noi
+## 🏢 About Us
 
-TechCorner Solutions este o echipă pasionată de tehnologie, fondată în martie 2025, care se concentrează pe crearea de aplicații și soluții software de înaltă calitate. Ne mândrim cu abordarea noastră orientată către rezultate și cu angajamentul nostru față de excelența tehnică.
+TechCorner Solutions is a passionate technology team, founded in March 2025, focused on creating high-quality applications and software solutions. We take pride in our results-oriented approach and our commitment to technical excellence.
 
-## 📂 Proiectele Noastre
+## 📂 Our Projects
 
-Organizația noastră găzduiește o varietate de proiecte software:
+Our organization hosts a variety of software projects:
 
-### 🎮 Soluții Interactive
-- **[omega-win](https://github.com/TechCorner-Solutions/omega-win)** - Soluție software specializată
-- **[primo-win](https://github.com/TechCorner-Solutions/primo-win)** - Aplicație de ultimă generație
-- **[rising-pub](https://github.com/TechCorner-Solutions/rising-pub)** - Platform de publicare și management
+### 🎮 Interactive Solutions
+- **[omega-win](https://github.com/TechCorner-Solutions/omega-win)** – Specialized software solution
+- **[primo-win](https://github.com/TechCorner-Solutions/primo-win)** – Next-generation application
+- **[rising-pub](https://github.com/TechCorner-Solutions/rising-pub)** – Publishing and management platform
 
-### 🚗 Soluții Specializate
-- **[Theta-Vehicles-Win](https://github.com/TechCorner-Solutions/Theta-Vehicles-Win)** - Sistem de management pentru vehicule
+### 🚗 Specialized Solutions
+- **[Theta-Vehicles-Win](https://github.com/TechCorner-Solutions/Theta-Vehicles-Win)** – Vehicle management system
 
-## 🌟 Activitatea Noastră
+## 🌟 Our Activity
 
-- **📊 Repositories:** 5 proiecte active
-- **📅 Fondat:** Martie 2025
-- **🔄 Status:** Dezvoltare activă cu release-uri regulate
+- **📊 Repositories:** 5 active projects
+- **📅 Founded:** March 2025
+- **🔄 Status:** Active development with regular releases
 
-## 🤝 Cum Poți Contribui
+## 🤝 How to Contribute
 
-Suntem întotdeauna în căutarea de contributori talentați care să se alăture echipei noastre:
+We’re always looking for talented contributors to join our efforts:
 
-1. **🔍 Explorează** proiectele noastre pentru a înțelege tehnologiile pe care le folosim
-2. **💡 Propune** îmbunătățiri sau raportează bug-uri prin issues
-3. **🔧 Contribuie** cu cod prin pull requests
-4. **📚 Documentează** și ajută la îmbunătățirea documentației
+1. **🔍 Explore** our projects to understand the technologies we use
+2. **💡 Suggest** improvements or report bugs via issues
+3. **🔧 Contribute** with code through pull requests
+4. **📚 Document** and help improve the documentation
 
-## 📞 Contact & Resurse
+## 📞 Contact & Resources
 
-- **🌐 Organizație:** [TechCorner Solutions](https://github.com/TechCorner-Solutions)
+- **🌐 Organization:** [TechCorner Solutions](https://github.com/TechCorner-Solutions)
 - **👨‍💻 Maintainer:** [cristian-ist](https://github.com/cristian-ist)
-- **📧 Pentru întrebări:** Deschide un issue în proiectul relevant
+- **📧 Questions:** Open an issue in the relevant project
 
-## 🎯 Viziunea Noastră
+## 🎯 Our Vision
 
-Aspirăm să fim lideri în dezvoltarea de soluții software personalizate, oferind produse care îmbunătățesc experiența utilizatorilor și eficiența business-urilor. Fiecare proiect al nostru este conceput cu atenție la detalii și cu focus pe calitate.
+We aspire to be leaders in developing customized software solutions, delivering products that enhance user experience and improve business efficiency. Each of our projects is built with attention to detail and a strong focus on quality.
 
-## 📈 Statistici
+## 📈 Stats
 
 - ⭐ **Repositories:** 5
-- 👥 **Membri activi:** Echipă în creștere
-- 🚀 **Release-uri recente:** Dezvoltare continuă
+- 👥 **Active Members:** Growing team
+- 🚀 **Recent Releases:** Continuous development
 
 ---
 
 <div align="center">
   <strong>TechCorner Solutions</strong><br>
-  <em>Construim viitorul prin tehnologie</em><br><br>
+  <em>Building the future through technology</em><br><br>
   
   ![GitHub followers](https://img.shields.io/github/followers/TechCorner-Solutions?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/TechCorner-Solutions?style=social)
