@@ -1,60 +1,63 @@
-# TechCorner Solutions 🚀
-
-Bine ați venit la **TechCorner Solutions** - o organizație dedicată dezvoltării de soluții software inovatoare și eficiente.
-
-## 🏢 Despre Noi
-
-TechCorner Solutions este o echipă pasionată de tehnologie, fondată în martie 2025, care se concentrează pe crearea de aplicații și soluții software de înaltă calitate. Ne mândrim cu abordarea noastră orientată către rezultate și cu angajamentul nostru față de excelența tehnică.
-
-## 📂 Proiectele Noastre
-
-Organizația noastră găzduiește o varietate de proiecte software:
-
-### 🎮 Soluții Interactive
-- **[omega-win](https://github.com/TechCorner-Solutions/omega-win)** - Soluție software specializată
-- **[primo-win](https://github.com/TechCorner-Solutions/primo-win)** - Aplicație de ultimă generație
-- **[rising-pub](https://github.com/TechCorner-Solutions/rising-pub)** - Platform de publicare și management
-
-### 🚗 Soluții Specializate
-- **[Theta-Vehicles-Win](https://github.com/TechCorner-Solutions/Theta-Vehicles-Win)** - Sistem de management pentru vehicule
-
-## 🌟 Activitatea Noastră
-
-- **📊 Repositories:** 5 proiecte active
-- **📅 Fondat:** Martie 2025
-- **🔄 Status:** Dezvoltare activă cu release-uri regulate
-
-## 🤝 Cum Poți Contribui
-
-Suntem întotdeauna în căutarea de contributori talentați care să se alăture echipei noastre:
-
-1. **🔍 Explorează** proiectele noastre pentru a înțelege tehnologiile pe care le folosim
-2. **💡 Propune** îmbunătățiri sau raportează bug-uri prin issues
-3. **🔧 Contribuie** cu cod prin pull requests
-4. **📚 Documentează** și ajută la îmbunătățirea documentației
-
-## 📞 Contact & Resurse
-
-- **🌐 Organizație:** [TechCorner Solutions](https://github.com/TechCorner-Solutions)
-- **👨‍💻 Maintainer:** [cristian-ist](https://github.com/cristian-ist)
-- **📧 Pentru întrebări:** Deschide un issue în proiectul relevant
-
-## 🎯 Viziunea Noastră
-
-Aspirăm să fim lideri în dezvoltarea de soluții software personalizate, oferind produse care îmbunătățesc experiența utilizatorilor și eficiența business-urilor. Fiecare proiect al nostru este conceput cu atenție la detalii și cu focus pe calitate.
-
-## 📈 Statistici
-
-- ⭐ **Repositories:** 5
-- 👥 **Membri activi:** Echipă în creștere
-- 🚀 **Release-uri recente:** Dezvoltare continuă
-
+<h1 align="center">TechCorner Solutions</h1>
+ 
+<p align="center">
+  Software and security products, built and run by a small team in Romania.<br>
+  Working with clients in Romania, Canada and the United States since March 2025.
+</p>
+<p align="center">
+  <a href="https://4tify.io"><img src="https://img.shields.io/badge/4Tify-4tify.io-044AB3?style=flat-square" alt="4Tify"></a>
+  <a href="https://github.com/cristian-ist"><img src="https://img.shields.io/badge/Maintainer-cristian--ist-151515?style=flat-square&logo=github" alt="Maintainer: cristian-ist"></a>
+  <a href="https://www.linkedin.com/in/cristian-istrate-12210729a/"><img src="https://img.shields.io/badge/LinkedIn-Cristian%20Istrate-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 ---
-
-<div align="center">
-  <strong>TechCorner Solutions</strong><br>
-  <em>Construim viitorul prin tehnologie</em><br><br>
-  
-  ![GitHub followers](https://img.shields.io/github/followers/TechCorner-Solutions?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/TechCorner-Solutions?style=social)
-</div>
+ 
+## What we build
+ 
+| Product | What it does |
+|---|---|
+| **[4Tify](https://4tify.io)** | Security testing and monitoring: automated weekly scans, pentests, live client reports, EDR monitoring and an on-prem AI. |
+| **PlusHLab** | Developer operations: dedicated build and deploy spaces, GitHub integration, an AI reviewer on every pull request, logs and docs. |
+| **Zoova** | A platform for veterinary practices. |
+ 
+We also build and modernise software for industrial clients, mostly in oil &amp; gas inspection: desktop suites, iPad field apps and migrations from legacy .NET / VB.NET to Node.js and Angular.
+ 
+## Public repositories
+ 
+| Repository | About |
+|---|---|
+| [primo-win](https://github.com/TechCorner-Solutions/primo-win) | Windows build of Primo, a pipe integrity application. |
+| [omega-win](https://github.com/TechCorner-Solutions/omega-win) | Windows build of Omega, a field inspection application. |
+| [Theta-Vehicles-Win](https://github.com/TechCorner-Solutions/Theta-Vehicles-Win) | Vehicle and fleet management module of Theta. |
+| [rising-pub](https://github.com/TechCorner-Solutions/rising-pub) | Publishing and content management platform. |
+ 
+Most of our work lives in private repositories for clients and products.
+ 
+## How we work
+ 
+- **Security built in.** We run a security platform, and our own products go through the same kind of testing.
+- **Reviewed code.** Pull requests go through PlusHLab's AI code review.
+- **Client data stays out of AI training.** Our AI use runs only through company API keys, never consumer tools.
+- **AI where it pays.** A plain automation is often the better answer, and we say so.
+## Stack
+ 
+**Languages:** TypeScript, JavaScript, C# / .NET, PHP, Python, Kotlin, SQL<br>
+**Frontend and apps:** React, Next.js, Angular, Vue.js, Electron, React Native, Flutter<br>
+**Backend:** Node.js, NestJS, Laravel, ASP.NET, REST APIs<br>
+**Data:** PostgreSQL, MySQL / MariaDB<br>
+**Infrastructure:** Linux (Debian), Docker, Dokploy, Cloudflare Zero Trust, self-hosted servers in Germany and Canada<br>
+**Security:** Burp Suite Pro, Metasploit, BBOT, Frida, jadx
+ 
+## In numbers
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechCorner-Solutions/.github/main/metrics/org.svg" alt="TechCorner Solutions: repositories and languages" width="480">
+  <img src="https://raw.githubusercontent.com/TechCorner-Solutions/.github/main/metrics/cristian-ist.svg" alt="cristian-ist: repositories, activity and languages" width="480">
+</p>
+<p align="center"><sub>Updated every night from GitHub data.</sub></p>
+## Contact
+ 
+Questions about a project: open an issue in its repository.
+Everything else: through [4tify.io](https://4tify.io) or [LinkedIn](https://www.linkedin.com/in/cristian-istrate-12210729a/).
+ 
+<p align="center"><sub>© 2026 TechCorner SRL · Târgu Neamț, Romania</sub></p>
+ 
