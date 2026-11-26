@@ -50,10 +50,12 @@ Most of our work lives in private repositories for clients and products.
 ## In numbers
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechCorner-Solutions/.github/main/metrics/org.svg" alt="TechCorner Solutions: repositories and languages" width="480">
-  <img src="https://raw.githubusercontent.com/TechCorner-Solutions/.github/main/metrics/cristian-ist.svg" alt="cristian-ist: repositories, activity and languages" width="480">
+<img src="https://github.com/cristian-ist/cristian-ist/blob/main/metrics/cristian-ist.svg" alt="TechCorner Solutions: repositories and languages" width="480">
+</br>
+<img src="https://github.com/cristian-ist/cristian-ist/blob/main/metrics/cristian-ist.svg" alt="cristian-ist: repositories, activity and languages" width="480">
 </p>
 <p align="center"><sub>Updated every night from GitHub data.</sub></p>
+
 ## Contact
  
 Questions about a project: open an issue in its repository.
